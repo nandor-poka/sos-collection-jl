@@ -1,2 +1,2 @@
 # sos-java-jl
-JupyterLab extension for SoS-java language module
+JupyterLab extension for the SoS Kernel Collection language modules, and settings.
